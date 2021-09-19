@@ -8,3 +8,5 @@ This link mainly discuss about Linux basic commands and how to use it. This is a
 and we can learn from it
 2. [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)<br>
 A link about markdown basic syntax. I think this link is beginner friendly
+3. [Creating File in Linux](https://www.cyberciti.biz/faq/create-a-file-in-linux-using-the-bash-shell-terminal/)<br>
+It contains some tutorials to create a file in Linux. This link is very helpful if you just started using Linux
