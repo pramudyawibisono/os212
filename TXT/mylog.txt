@@ -22,3 +22,7 @@ ZCZC W02 20 L05 OS Quiz
 ZCZC W02 90 L02 ZOOM meetings (OS sync class - 13/09/2021)
 ZCZC W02 20 L02 ZOOM meetings (OS sync class - 16/09/2021)
 ZCZC W02 180 L09 Assignment in General (all assignments)
+ZCZC W03 20 L05 OS Quiz
+ZCZC W03 60 L02 ZOOM meetings (OS sync class)
+ZCZC W03 150 L09 Assignment in General (all assignments)
+ZCZC W03 10 L08 Asking a question to AsDos
