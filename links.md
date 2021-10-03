@@ -13,3 +13,5 @@ It contains some tutorials to create a file in Linux. This link is very helpful 
 4. [C Programming Language Tutorials](https://www.programiz.com/c-programming)<br>
 This link can help us to learn C Programming Language step by step. 
 Some features in **Programiz** (a platform to learn programming) are tutorials, examples, online compiler, etc.
+5. [Learn C-Pointer - **PetaniKode**](https://www.petanikode.com/c-pointer/)<br>
+A link to learn pointer in C Programming Language. It contains explanations and tutorials about pointer in C Programming Language
