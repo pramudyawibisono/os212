@@ -27,3 +27,8 @@ ZCZC W03 60 L02 ZOOM meetings (OS sync class)
 ZCZC W03 150 L09 Assignment in General (all assignments)
 ZCZC W03 10 L08 Asking a question to AsDos
 ZCZC W03 10 L01 SCELE related (answering OS Course W03 forum/discussion)
+ZCZC W04 120 L02 ZOOM meetings (OS sync class W04)
+ZCZC W04 20 L05 OS Quiz
+ZCZC W04 60 L09 Assignment in General
+ZCZC W04 15 L01 SCELE related (answering OS Course W04 forum Use After Free)
+ZCZC W04 10 L06 GSGS related
