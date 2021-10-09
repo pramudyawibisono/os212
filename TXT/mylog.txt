@@ -32,3 +32,8 @@ ZCZC W04 20 L05 OS Quiz
 ZCZC W04 60 L09 Assignment in General
 ZCZC W04 15 L01 SCELE related (answering OS Course W04 forum Use After Free)
 ZCZC W04 10 L06 GSGS related
+ZCZC W05 95 L02 ZOOM meetings (OS sync class)
+ZCZC W05 20 L05 OS Quiz
+ZCZC W05 100 L09 Assignment in General
+ZCZC W05 20 L06 GSGS related
+ZCZC W05 10 L01 SCELE related (answering OS Course W05 forum)
