@@ -17,3 +17,5 @@ Some features in **Programiz** (a platform to learn programming) are tutorials, 
 A link to learn pointer in C Programming Language. It contains explanations and tutorials about pointer in C Programming Language.
 6. [Write, Compile, and Run C Program in Debian 10](https://vitux.com/how-to-write-and-run-a-c-program-in-debian-10/)<br>
 This link helps me to do some things about my C programs in Debian. It contains some examples how to write, compile, and run C programs in Debian.
+7. [Big Endian, Little Endian](https://www.techtarget.com/searchnetworking/definition/big-endian-and-little-endian)<br>
+A link about big endian and little endian. This link also talks about some differences between those.
