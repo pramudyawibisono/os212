@@ -37,3 +37,8 @@ ZCZC W05 20 L05 OS Quiz
 ZCZC W05 100 L09 Assignment in General
 ZCZC W05 20 L06 GSGS related
 ZCZC W05 10 L01 SCELE related (answering OS Course W05 forum)
+ZCZC W06 20 L05 OS Quiz
+ZCZC W06 30 L02 OS async class
+ZCZC W06 40 L09 Assignment in General
+ZCZC W06 20 L06 GSGS related
+ZCZC W06 10 L01 SCELE/Discord related (checking announcement)
