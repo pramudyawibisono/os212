@@ -19,3 +19,5 @@ A link to learn pointer in C Programming Language. It contains explanations and 
 This link helps me to do some things about my C programs in Debian. It contains some examples how to write, compile, and run C programs in Debian.
 7. [Big Endian, Little Endian](https://www.techtarget.com/searchnetworking/definition/big-endian-and-little-endian)<br>
 A link about big endian and little endian. This link also talks about some differences between those.
+8. [SCP Commands](https://www.tecmint.com/scp-commands-examples/)<br>
+This link helps me to learn about scp commands in Linux. It contains some explanations and examples about scp commands.
