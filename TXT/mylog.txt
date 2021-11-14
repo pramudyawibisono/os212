@@ -47,3 +47,7 @@ ZCZC W07 65 L02 OS sync class
 ZCZC W07 60 L09 Assignment in General
 ZCZC W07 15 L01 SCELE/Discord related
 ZCZC W07 20 L64 Helping OS related problem to a friend
+ZCZC W08 20 L05 OS Quiz
+ZCZC W08 75 L02 OS sync class
+ZCZC W08 360 L09 Assignment in General
+ZCZC W08 10 L01 SCELE/Discord related
