@@ -51,3 +51,7 @@ ZCZC W08 20 L05 OS Quiz
 ZCZC W08 75 L02 OS sync class
 ZCZC W08 360 L09 Assignment in General
 ZCZC W08 10 L01 SCELE/Discord related
+ZCZC W09 20 L05 OS Quiz
+ZCZC W09 300 L09 Assignment in General
+ZCZC W09 10 L01 SCELE/Discord related (answering OS Forum + checking announcement)
+ZCZC W09 5 L06 GSGS related
