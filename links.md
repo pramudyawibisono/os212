@@ -21,3 +21,7 @@ This link helps me to do some things about my C programs in Debian. It contains 
 A link about big endian and little endian. This link also talks about some differences between those.
 8. [SCP Commands](https://www.tecmint.com/scp-commands-examples/)<br>
 This link helps me to learn about scp commands in Linux. It contains some explanations and examples about scp commands.
+9. [Linux From Scratch Official Guide ver 11.0](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
+This link helps me to do W08 and W09 OS assignments. It contains explanations and commands to do LFS.
+10. [LFS YouTube playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE)<br>
+A YouTube playlist about LFS. Maybe it can helps us to do LFS.
