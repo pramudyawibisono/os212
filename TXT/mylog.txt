@@ -55,3 +55,7 @@ ZCZC W09 20 L05 OS Quiz
 ZCZC W09 300 L09 Assignment in General
 ZCZC W09 10 L01 SCELE/Discord related (answering OS Forum + checking announcement)
 ZCZC W09 5 L06 GSGS related
+ZCZC W10 20 L05 OS Quiz
+ZCZC W10 1560 L09 Assignment in General
+ZCZC W10 10 L01 SCELE/Discord related
+ZCZC W10 5 L06 GSGS related
