@@ -25,3 +25,5 @@ This link helps me to learn about scp commands in Linux. It contains some explan
 This link helps me to do W08 and W09 OS assignments. It contains explanations and commands to do LFS.
 10. [LFS YouTube playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE)<br>
 A YouTube playlist about LFS. Maybe it can helps us to do LFS.
+11. [OS Slides](https://www.os-book.com/OS10/slide-dir/)<br>
+A link about Operating System slides. I learned from these slides to prepare OS Weekly Quiz.
